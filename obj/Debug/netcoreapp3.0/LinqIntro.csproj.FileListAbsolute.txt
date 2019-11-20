@@ -1,0 +1,11 @@
+c:\Users\Oakley\desktop\workspace\LinqIntro\bin\Debug\netcoreapp3.0\LinqIntro.exe
+C:\Users\Oakley\desktop\workspace\LinqIntro\bin\Debug\netcoreapp3.0\LinqIntro.deps.json
+C:\Users\Oakley\desktop\workspace\LinqIntro\bin\Debug\netcoreapp3.0\LinqIntro.runtimeconfig.json
+C:\Users\Oakley\desktop\workspace\LinqIntro\bin\Debug\netcoreapp3.0\LinqIntro.runtimeconfig.dev.json
+c:\Users\Oakley\desktop\workspace\LinqIntro\bin\Debug\netcoreapp3.0\LinqIntro.dll
+c:\Users\Oakley\desktop\workspace\LinqIntro\bin\Debug\netcoreapp3.0\LinqIntro.pdb
+c:\Users\Oakley\desktop\workspace\LinqIntro\obj\Debug\netcoreapp3.0\LinqIntro.csprojAssemblyReference.cache
+c:\Users\Oakley\desktop\workspace\LinqIntro\obj\Debug\netcoreapp3.0\LinqIntro.AssemblyInfoInputs.cache
+c:\Users\Oakley\desktop\workspace\LinqIntro\obj\Debug\netcoreapp3.0\LinqIntro.AssemblyInfo.cs
+c:\Users\Oakley\desktop\workspace\LinqIntro\obj\Debug\netcoreapp3.0\LinqIntro.dll
+c:\Users\Oakley\desktop\workspace\LinqIntro\obj\Debug\netcoreapp3.0\LinqIntro.pdb
